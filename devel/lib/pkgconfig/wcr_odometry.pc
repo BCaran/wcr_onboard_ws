@@ -1,8 +1,0 @@
-prefix=/home/wcr/wcr_onboard_ws/devel
-
-Name: wcr_odometry
-Description: Description of wcr_odometry
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
